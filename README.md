@@ -52,7 +52,8 @@
 - 🔄 **Platform migration to Shopify** — moving your store over from other platforms (WooCommerce, Magento, BigCommerce, custom builds, etc.)
 - 📥 **Data import & migration** — customer, product, and order data sheets cleaned up and imported into your new Shopify store, with data integrity checked
 - 🎨 **Custom theme & section development** — built on the Dawn framework, tailored to your brand's design
-- 🛍️ **Shopify app development** — extending your store's functionality beyond what themes alone can do
+- 🐛 **Theme bug fixes & troubleshooting** — debugging and fixing issues in Shopify Liquid templates, sections, and schemas, regardless of the original theme or developer
+- 🛍️ **Shopify app development** *(currently building up experience here)* — happy to take on smaller app projects while I grow this skill set
 - ⚡ **Fast, lean solutions** — I use what Shopify already provides wherever possible, so you're not paying for unnecessary custom builds
 
 ---
