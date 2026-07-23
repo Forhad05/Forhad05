@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Mahafuzul Haque</h1>
 <h3 align="center">Shopify Theme & App Developer | 5+ Years Building E-commerce Experiences</h3>
 
 <p align="center">
@@ -47,6 +47,16 @@
 
 ---
 
+### 💼 What I Can Do For You
+
+- 🔄 **Platform migration to Shopify** — moving your store over from other platforms (WooCommerce, Magento, BigCommerce, custom builds, etc.)
+- 📥 **Data import & migration** — customer, product, and order data sheets cleaned up and imported into your new Shopify store, with data integrity checked
+- 🎨 **Custom theme & section development** — built on the Dawn framework, tailored to your brand's design
+- 🛍️ **Shopify app development** — extending your store's functionality beyond what themes alone can do
+- ⚡ **Fast, lean solutions** — I use what Shopify already provides wherever possible, so you're not paying for unnecessary custom builds
+
+---
+
 ### 🔭 Currently Working On
 
 - 🎨 Building custom **Shopify themes and sections** for client storefronts
@@ -57,8 +67,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Forhad05&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forhad05&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
