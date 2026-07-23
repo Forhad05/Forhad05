@@ -69,6 +69,17 @@
 
 ---
 
+### 🤖 My Claude + MCP Setup
+
+I run Claude across multiple environments depending on where I'm working:
+
+- 🐧 **Linux (NixOS / CachyOS):** Claude Code — VS Code extension + terminal — paired with Docker Desktop for MCP servers
+- 🪟 **Windows + WSL:** Docker Desktop + Linux running inside WSL (VS Code extension), plus Claude Code terminal on the Windows side
+
+**How I work with AI:** I use Claude to co-build components and help manage database work, but I lead the decision-making — every line of AI-written code gets reviewed by me before it's pushed to GitHub.
+
+---
+
 ### 🔭 Currently Working On
 
 - 🎨 Building custom **Shopify themes and sections** for client storefronts
