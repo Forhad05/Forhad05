@@ -111,6 +111,10 @@ Trained in-house rather than in a classroom — five years of production Shopify
 
 Currently studying statistics. It's changing how I read store data: the difference between a real conversion problem and normal variance is usually a sample size question, not a design one.
 
+
+---
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 ---
 
 ### 📫 Let's Connect
