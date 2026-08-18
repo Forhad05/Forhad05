@@ -40,36 +40,6 @@ I work on a duplicate theme, never your live store. Flat rate quoted before I st
 
 ---
 
-<!-- ============================================================
-     RECENT FIXES — hidden until filled in.
-     Delete these two comment lines to publish the section.
-
-### 🔧 Recent Fixes
-
-**[Cart drawer showing stale quantities]**
-Symptom: [what the merchant saw]
-Cause: [what was actually wrong]
-Fix: [what you changed]
-Result: [number if you have one]
-→ [link to repo or write-up]
-
-**[Variant images not switching on selection]**
-Symptom: [what the merchant saw]
-Cause: [what was actually wrong]
-Fix: [what you changed]
-Result: [number if you have one]
-→ [link to repo or write-up]
-
-**[Lighthouse 41 → 89 on mobile]**
-Symptom: [what the merchant saw]
-Cause: [what was actually wrong]
-Fix: [what you changed]
-Result: [number if you have one]
-→ [link to repo or write-up]
-
----
-     ============================================================ -->
-
 ### 🧰 Core Stack
 
 <p>
