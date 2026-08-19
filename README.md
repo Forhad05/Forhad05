@@ -18,7 +18,7 @@ Most of my work starts with a merchant saying "it was working yesterday."
 
 I work on a duplicate theme, never your live store. Flat rate quoted before I start, and the first 15 minutes of diagnosis is free.
 
-📧 **[mahafuzulhaq99@gmail.com](mailto:mahafuzulhaq99@gmail.com)** · 💬 **[WhatsApp](https://wa.me/8801784020530)** · 💼 **[LinkedIn](https://www.linkedin.com/in/mh-forhad-773a37323/)**
+📧 **[mahafuzulhaq99@gmail.com](mailto:mahafuzulhaq99@gmail.com)** · 🟢 **[Fiverr Profile](https://www.fiverr.com/coder_apon05)** · 💬 **[WhatsApp](https://wa.me/8801784020530)** · 💼 **[LinkedIn](https://www.linkedin.com/in/mh-forhad-773a37323/)**
 
 ---
 
@@ -90,6 +90,7 @@ Currently studying statistics. It's changing how I read store data: the differen
 ### 📫 Let's Connect
 
 <p>
+  <a href="https://www.fiverr.com/coder_apon05"><img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
   <a href="mailto:mahafuzulhaq99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/8801784020530"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mh-forhad-773a37323/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
