@@ -63,12 +63,12 @@ I work on a duplicate theme, never your live store. Flat rate quoted before I st
   <img src="https://img.shields.io/badge/MongoDB-3a4a52?style=flat-square&logo=mongodb&logoColor=47A248" />
 </p>
 
-### 🖥️ Environment
+### 🖥️ Environmental knowledge
 
 <p>
   <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white" />
   <img src="https://img.shields.io/badge/CachyOS-0F94D2?style=flat-square&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20%2B%20WSL-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%28XP%2C%207%2C%208%2C%2010%2C%2011%29%2C%20WSL-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
