@@ -68,6 +68,11 @@ I work on a duplicate theme, never your live store. Flat rate quoted before I st
 <p>
   <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white" />
   <img src="https://img.shields.io/badge/CachyOS-0F94D2?style=flat-square&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch%20%28Hyprland%29-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu%20%28GNOME%29-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Mint%20%28XFCE%29-87CF3E?style=flat-square&logo=linuxmint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora%20%28KDE%29-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux%20%28KDE%2C%20GNOME%29-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%28XP%2C%207%2C%208%2C%2010%2C%2011%29%2C%20WSL-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
