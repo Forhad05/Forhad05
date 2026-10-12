@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahafuzul Haque</h1>
+<h1 align="center">Hi 👋, I'm Mahafuzul Haque Forhad</h1>
 <h3 align="center">Senior Shopify Theme Developer · 5+ years shipping production stores</h3>
 <p align="center"><em>I fix Shopify themes that broke — carts, variant selectors, theme updates, app conflicts.</em></p>
 
